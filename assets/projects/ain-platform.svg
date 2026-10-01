@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+  <radialGradient id="r"><stop stop-color="#60a5fa" stop-opacity=".7"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="760" rx="42" fill="url(#g)"/>
+<circle cx="960" cy="160" r="310" fill="url(#r)"/>
+<rect x="86" y="100" width="1028" height="560" rx="28" fill="#0b1120" opacity=".78" stroke="#93c5fd" stroke-opacity=".2"/>
+<rect x="125" y="140" width="950" height="68" rx="18" fill="#111827"/>
+<circle cx="155" cy="174" r="9" fill="#ef4444"/><circle cx="184" cy="174" r="9" fill="#f59e0b"/><circle cx="213" cy="174" r="9" fill="#22c55e"/>
+<text x="250" y="183" fill="#cbd5e1" font-family="Arial" font-size="24">AIN Maintenance Intelligence</text>
+<rect x="125" y="238" width="300" height="380" rx="22" fill="#111827"/>
+<rect x="455" y="238" width="620" height="170" rx="22" fill="#111827"/>
+<rect x="455" y="430" width="300" height="188" rx="22" fill="#111827"/>
+<rect x="775" y="430" width="300" height="188" rx="22" fill="#111827"/>
+<path d="M485 362 C535 322, 585 342, 635 300 S740 292, 805 335 S905 285, 1040 302" fill="none" stroke="#60a5fa" stroke-width="12" stroke-linecap="round"/>
+<rect x="160" y="280" width="220" height="22" rx="11" fill="#1e3a8a"/>
+<rect x="160" y="325" width="180" height="14" rx="7" fill="#334155"/>
+<rect x="160" y="355" width="210" height="14" rx="7" fill="#334155"/>
+<rect x="160" y="385" width="160" height="14" rx="7" fill="#334155"/>
+<circle cx="915" cy="520" r="62" fill="#1d4ed8" opacity=".65"/>
+<path d="M890 520 l18 18 34 -42" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="485" y="282" fill="#94a3b8" font-family="Arial" font-size="18">PERFORMANCE</text>
+<text x="485" y="350" fill="#fff" font-family="Arial" font-size="44" font-weight="700">70% faster</text>
+</svg>

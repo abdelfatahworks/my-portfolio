@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+<defs><linearGradient id="g" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#062e3f"/><stop offset="1" stop-color="#0891b2"/></linearGradient></defs>
+<rect width="1000" height="620" rx="40" fill="url(#g)"/>
+<rect x="70" y="70" width="860" height="480" rx="28" fill="#06232f" stroke="#67e8f9" stroke-opacity=".22"/>
+<text x="110" y="122" fill="#cffafe" font-family="Arial" font-size="24">Business Intelligence Dashboard</text>
+<rect x="110" y="165" width="180" height="115" rx="18" fill="#0b3342"/><text x="135" y="205" fill="#94a3b8" font-family="Arial" font-size="16">REVENUE</text><text x="135" y="253" fill="#fff" font-family="Arial" font-size="36" font-weight="700">$48.2K</text>
+<rect x="310" y="165" width="180" height="115" rx="18" fill="#0b3342"/><text x="335" y="205" fill="#94a3b8" font-family="Arial" font-size="16">ORDERS</text><text x="335" y="253" fill="#fff" font-family="Arial" font-size="36" font-weight="700">1,284</text>
+<rect x="510" y="165" width="380" height="290" rx="18" fill="#0b3342"/>
+<polyline points="545,400 595,365 640,380 690,320 740,350 790,285 850,300" fill="none" stroke="#22d3ee" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="545" y1="410" x2="850" y2="410" stroke="#155e75" stroke-width="2"/>
+<rect x="110" y="305" width="380" height="150" rx="18" fill="#0b3342"/>
+<rect x="145" y="350" width="38" height="70" rx="8" fill="#0e7490"/><rect x="205" y="330" width="38" height="90" rx="8" fill="#06b6d4"/><rect x="265" y="365" width="38" height="55" rx="8" fill="#22d3ee"/><rect x="325" y="320" width="38" height="100" rx="8" fill="#67e8f9"/><rect x="385" y="290" width="38" height="130" rx="8" fill="#a5f3fc"/>
+</svg>
