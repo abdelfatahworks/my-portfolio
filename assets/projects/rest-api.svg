@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="1000" height="620" rx="40" fill="url(#g)"/>
+<rect x="75" y="70" width="850" height="480" rx="28" fill="#0b1120" stroke="#c4b5fd" stroke-opacity=".22"/>
+<text x="115" y="125" font-family="Arial" font-size="22" fill="#c4b5fd">REST API /swagger/index.html</text>
+<rect x="115" y="160" width="770" height="56" rx="14" fill="#111827"/><text x="140" y="197" font-family="Arial" font-size="20" fill="#60a5fa">GET</text><text x="220" y="197" font-family="Arial" font-size="20" fill="#e5e7eb">/api/maintenance/requests</text>
+<rect x="115" y="238" width="770" height="56" rx="14" fill="#111827"/><text x="140" y="275" font-family="Arial" font-size="20" fill="#22c55e">POST</text><text x="220" y="275" font-family="Arial" font-size="20" fill="#e5e7eb">/api/maintenance/requests</text>
+<rect x="115" y="316" width="770" height="160" rx="20" fill="#0f172a"/>
+<text x="145" y="352" font-family="monospace" font-size="18" fill="#94a3b8">{</text>
+<text x="165" y="385" font-family="monospace" font-size="18" fill="#60a5fa">"status"</text><text x="280" y="385" font-family="monospace" font-size="18" fill="#e5e7eb">: "InProgress",</text>
+<text x="165" y="418" font-family="monospace" font-size="18" fill="#60a5fa">"priority"</text><text x="290" y="418" font-family="monospace" font-size="18" fill="#e5e7eb">: "High"</text>
+<text x="145" y="451" font-family="monospace" font-size="18" fill="#94a3b8">}</text>
+</svg>
